@@ -4,7 +4,7 @@
 
 A CLI written in Go that generates git commit messages for you using AI models from multiple providers (OpenAI, Claude, Gemini, and Deepseek) and follows the conventional commit format.
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/username/commitly)](https://goreportcard.com/report/github.com/username/commitly)
+[![Go Report Card](https://goreportcard.com/badge/github.com/8128david/commitly)](https://goreportcard.com/report/github.com/8128david/commitly)
 
 ## Features
 
@@ -24,7 +24,7 @@ A CLI written in Go that generates git commit messages for you using AI models f
 ### From Source
 
 ```bash
-go install github.com/username/commitly@latest
+go install github.com/8128david/commitly@latest
 ```
 
 ## Setup
